@@ -20,7 +20,7 @@ The dashboard helps users explore:
 ---
 
 ## 📂 Dataset
-- Source: [Kaggle - IMDB Movies Dataset](https://www.kaggle.com/) *(update with your exact dataset link)*  
+- Source: [Kaggle - IMDB Movies Dataset](https://www.kaggle.com/)  
 - Size: ~7600 Movies  
 - Attributes: Title, Genre, Rating, Votes, Runtime, Year, Country  
 
